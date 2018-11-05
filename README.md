@@ -15,3 +15,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ProTip! Use the URL for this page when adding GitHub as a remote. 
 
 How to updata my local repo wiht remote repo
+
+git pull origin master
